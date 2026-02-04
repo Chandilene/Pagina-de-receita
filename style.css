@@ -41,6 +41,7 @@ section + section{
 h1{
     line-height: 140%;
     font-size: 40px;
+    
 }
 
 h2{
@@ -51,8 +52,19 @@ h2{
 h1,h2{
     color: #291B1A;
     margin-bottom: 4px;
+    font-weight: 400;
 }
 
 ul{
     padding-left: 24px;
+}
+
+footer{
+    text-align: center;
+    color: #F0E8C2;
+    padding-bottom: 48px;
+}
+
+footer img{
+    vertical-align: middle;
 }
